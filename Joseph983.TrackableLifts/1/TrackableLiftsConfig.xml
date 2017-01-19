@@ -1,0 +1,6 @@
+<TrackableLiftsConfig>
+	<TLiftShaftBuilderPPS>200</TLiftShaftBuilderPPS>
+  <TLiftShaftBuilderPowerStorage>600</TLiftShaftBuilderPowerStorage>
+	<GuideRailFormerPPS>10</GuideRailFormerPPS>
+  <GuideRailFormerPowerStorage>100</GuideRailFormerPowerStorage>
+</TrackableLiftsConfig)

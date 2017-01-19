@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTerrainDataEntry xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" >
+<TerrainDataEntry>
+  <Key>MachinePlacement</Key>
+  <Name>Machine Placement</Name>
+  <IsOverride>true</IsOverride>
+  <CubeType>600</CubeType>
+  <Values>
+    <ValueEntry>
+      <Key>Joseph983.TrackableLiftsShaftBuilderPlacement</Key>
+      <Name>MK1 TLift Shaft Builder</Name>
+      <IconName>MK1 TLift Shaft Builder</IconName>
+      <Description>Mod Description Pending</Description>
+    </ValueEntry>
+  </Values>
+  <Values>
+    <ValueEntry>
+      <Key>Joseph983.TrackableLiftsShaftBuilderPlacement</Key>
+      <Name>MK2 TLift Shaft Builder</Name>
+      <IconName>MK2 TLift Shaft Builder</IconName>
+      <Description>Mod Description Pending</Description>
+    </ValueEntry>
+  </Values>
+  </TerrainDataEntry>
+  </ArrayOfTerrainDataEntry>
