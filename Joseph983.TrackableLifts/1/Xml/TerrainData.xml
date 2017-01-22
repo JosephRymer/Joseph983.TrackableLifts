@@ -7,19 +7,48 @@
   <CubeType>600</CubeType>
   <Values>
     <ValueEntry>
-      <Key>Joseph983.TrackableLiftsShaftBuilderPlacement</Key>
+      <Key>Joseph983.MK1TrackableLiftsShaftBuilderPlacement</Key>
       <Name>MK1 TLift Shaft Builder</Name>
       <IconName>MK1 TLift Shaft Builder</IconName>
-      <Description>Mod Description Pending</Description>
+      <Description>Excavator that digs and builds Trackable Lifts Shaft places guide rails</Description>
     </ValueEntry>
-  </Values>
-  <Values>
     <ValueEntry>
-      <Key>Joseph983.TrackableLiftsShaftBuilderPlacement</Key>
+      <Key>Joseph983.MK2TrackableLiftsShaftBuilderPlacement</Key>
       <Name>MK2 TLift Shaft Builder</Name>
       <IconName>MK2 TLift Shaft Builder</IconName>
-      <Description>Mod Description Pending</Description>
+      <Description>Excavator that digs and builds Trackable Lifts Shaft places guide rails</Description>
     </ValueEntry>
   </Values>
+     <Key>Joseph983.TrakcableLiftsGuideRailFormer</Key>
+     <Name>Guide Rail Former</Name>
+  <ValueEntry>
+    <Key>Joseph983.TrackableLiftsGuideRailFornmer</Key>
+    <Name>Trackable Lifts Guide Rail Former</Name>
+    <IconName>Guide Rail Former</IconName>
+    <Description>Makes Guide Rails for Trakcble Lifts</Description>
+  </ValueEntry>
+  </TerrainDataEntry>
+  <TerrainDataEntry>
+    <Hidden>false</Hidden>
+    <Key>Joseph983.MK1TrackableLiftsShaftBuilder</Key>
+    <Name>MK1 Shaft Builder</Name>
+    <DefaultValue>0</DefaultValue>
+    <IconName>Trackable Lift Component</IconName>
+    <Values>
+      <ValueEntry>
+       <Key>Joseph983.MK1TrackableLiftsShaftBuilderBlock</Key>
+       <Name>MK1 Shaft Builder</Name>
+       <IconName>Trackable Lift Component</IconName>
+       <PickReplacement>Joseph983.MK1TrackableLiftsShaftBuilderPlacement</PickReplacement>
+       <Description>MK1 Trackable Lifts Shaft Builder to power Trakcable Lift 3x3x2 configuration</Description>
+      </ValueEntry>
+      <ValueEntry>
+       <Key>Joseph983.MK1TrackableLiftsShaftBuilderCenter</Key>
+       <Name>MK1 Shaft Builder</Name>
+       <IconName>Trackable Lift Component</IconName>
+       <PickReplacement>Joseph983.MK1TrackableLiftsShaftBuilderPlacement</PickReplacement>
+       <Description>MK1 Trackable Lifts Shaft Builder to power Trakcable Lift 3x3x2 configuration</Description>
+      </ValueEntry>
+    </Values>
   </TerrainDataEntry>
   </ArrayOfTerrainDataEntry>
